@@ -1,0 +1,17 @@
+.vs/
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.next/
+**/.env
+**/.env.*
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
